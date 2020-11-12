@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+	int n,i,j,k,y,z;
+	printf("请输入奇数行数n:");
+	scanf("%d",&n);
+	for(i=1;i<=(n+1)/2;i++)
+	{
+		for(j=1;j<=(n+1)2-i;j++)
+		{printf("");}
+		for(k=1;k<=2*i-1;k++)
+		{printf("*");}
+		printf("\n");
+	}
+	for(i=(n+1)/2+1;(i>=(n+1/2+1)&&i<=n;XXXXXXX)//XXXXX为待解决的代码
+	{
+		for(y=1;y<=i-(n+1)/2;y++)
+		{printf("");}
+		for(z=1;z<=2*n-2*i+1;z++)
+		{printf("*");}
+		printf("\n");
+	}
+}
