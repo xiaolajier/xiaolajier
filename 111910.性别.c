@@ -14,4 +14,8 @@ void main()
 	printf("性别是：");
 	printf("女\n");
 	}
+	else
+	{
+		printf("输入有误，请重新输入");
+	}
 }
