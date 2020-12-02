@@ -12,5 +12,5 @@ void main()
 	case 'd':printf("你在点击“右”键\n");break;
 
 	default:printf("输入错误，请输入wasd键");break;
-	}
+		}
 }
