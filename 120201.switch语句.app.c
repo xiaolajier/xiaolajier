@@ -27,5 +27,5 @@ void main()
 	case 19:printf("EPFL\n");break;
 	case 20:printf("爱丁堡大学\n");break;
 	default:printf("输入错误，请输入1-20的数\n");break;
-		}
+	}
 }
