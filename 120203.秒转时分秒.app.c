@@ -8,7 +8,7 @@ void main()
 	h=s/3600;
 	m=s/60%60;
 	s%=60;
-	printf("%d:%d:%d\n",h,m,s);
+	printf("%.2d:%.2d:%.2d\n",h,m,s);
 	}
 	else
 	{
